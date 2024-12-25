@@ -1,2 +1,2 @@
 # Shell-Scripting-Projects
-1. Calculator with basic functionality (addition, Multiplication and Division
+1. Calculator with basic functionality (Addition, Subtraction, Multiplication and Division)
